@@ -14,8 +14,8 @@
   ],
   "author": "FellowMD",
   "license": "BSD",
-
   "dependencies": {
-    "redis": "*"
+    "async": "~0.2.9",
+    "redis": "~0.8.3"
   }
 }
