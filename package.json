@@ -1,6 +1,6 @@
 {
   "name": "redis-jsi",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "We use a slightly strange redis structure. We use lots of hashes, where the values are the indexes of other hashes and values in redis. Lots of guids. This lets you dump such a structure from redis into a javascript object, and hands it to you in a node repl",
   "main": "index.js",
   "scripts": {
